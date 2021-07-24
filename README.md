@@ -9,9 +9,9 @@ The research investigated the factors that influence housing prices using the in
 and developed regresson models that will allow the company to accurately predict the sale of prices once the predictor variables are provided.
 
 ## _Objectives_ ##
-*Study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months'
+* Study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months'
 
-*Create a model that would allow the company to accurately predict the sales prices upon being provided with the predictor variables.
+* Create a model that would allow the company to accurately predict the sales prices upon being provided with the predictor variables.
 
 
 ## _Platforms Used_ ##
