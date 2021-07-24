@@ -29,9 +29,9 @@ and developed regresson models that will allow the company to accurately predict
 
 
 ## _Authors and Acknowledgment_ ##
-Maureen Gatu
+Author:  Maureen Gatu
 
-Assistance: Technical Mentors of Moringa School (Nairobi, Kenya).
+Assistance: Technical Mentor, Moringa School.
 
 ## License
 MIT © 
