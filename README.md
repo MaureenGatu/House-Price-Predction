@@ -1,5 +1,5 @@
 # House-Price-Predction
-Linear regresion models to predict  real easte house prices.
+Linear regresion models to predict  real estate house prices.
 
 
 
